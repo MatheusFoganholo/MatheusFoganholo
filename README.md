@@ -6,7 +6,7 @@
 [![Web Site Badge](https://img.shields.io/badge/-Web%20Site-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=white&link=https://www.joaoazevedojs.com.br)](https://www.matheusfoganholo.com.br)
 
 ## Hello World! :wave:
-Olá, meu nome é Matheus De Chico Foganholo, tenho 22 anos 📅\n
+Olá, meu nome é Matheus De Chico Foganholo, tenho 22 anos 📅<br/>
 Moro no interior de SP, em Jaú 🌎
 No momento, estou trabalhando home-office como desenvolvedor web freelancer através do meu website 🌐
 
