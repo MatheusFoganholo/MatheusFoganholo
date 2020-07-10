@@ -7,10 +7,11 @@
 
 ## Hello World! :wave:
 Olá, meu nome é Matheus De Chico Foganholo, tenho 22 anos 📅<br/>
-Moro no interior de SP, em Jaú 🌎
-No momento, estou trabalhando home-office como desenvolvedor web freelancer através do meu website 🌐
+Moro no interior de SP, em Jaú 🌎<br/>
+No momento, estou trabalhando home-office como desenvolvedor web freelancer através do meu website 🌐<br/>
+Atualmente, estou estudando para me tornar um desenvolvedor full-stack.
 
-## :man_technologist: Estou estudando para me tornar um desenvolvedor full-stack. No momento, meus conhecimentos são: 
+## :man_technologist: No momento, meus conhecimentos são: 
 
 | Tecnologias | Conhecimento |
 | - | - |
@@ -20,3 +21,5 @@ No momento, estou trabalhando home-office como desenvolvedor web freelancer atra
 | Node.js, PHP | :star: :star: :star: |
 | React-Native | :star: :star: :star: :star: :star: |
 | MySQL, SQLite | :star: :star: :star: :star: |
+
+🚀 O meta de hoje é ser melhor do que ontem, não melhor que ninguém.
