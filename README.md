@@ -22,4 +22,6 @@ Atualmente, estou estudando para me tornar um desenvolvedor full-stack.
 | React-Native | :star: :star: :star: :star: :star: |
 | MySQL, SQLite | :star: :star: :star: :star: |
 
+<br/>
+
 🚀 A meta de hoje é ser melhor do que ontem, não melhor que ninguém.
