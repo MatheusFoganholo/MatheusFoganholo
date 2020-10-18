@@ -19,7 +19,7 @@ Estou estudando para me tornar um desenvolvedor full-stack 📚
 | Javascript, jQuery, Typescript | :star: :star: :star: :star: :star: |
 | React.js, Angular.js | :star: :star: :star: |
 | Node.js, PHP | :star: :star: :star: |
-| C#, VB.Net | :star: :star: :star: |
+| VB.Net, C# | :star: :star: :star: |
 | React-Native | :star: :star: :star: :star: :star: |
 | MySQL, SQLite | :star: :star: :star: :star: |
 
