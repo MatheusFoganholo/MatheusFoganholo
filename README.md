@@ -8,8 +8,7 @@
 ## Hello World! :wave:
 Olá, meu nome é Matheus De Chico Foganholo, tenho 23 anos 📅<br/>
 Resido no interior de SP, em Jaú 🌎<br/>
-Estou trabalhando desenvolvedor de sistemas na filial de Jú da JN Moura Informática 🖥<br/>
-Estou estudando para me tornar um desenvolvedor full-stack 📚
+Estou trabalhando como desenvolvedor de sistemas na filial de Jaú da JN Moura Informática 🖥<br/>
 
 ## :man_technologist: No momento, meus conhecimentos são: 
 
