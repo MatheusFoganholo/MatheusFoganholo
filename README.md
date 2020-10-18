@@ -1,14 +1,14 @@
 # MatheusFoganholo :computer:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joaoazevedoJS)](https://github.com/MatheusFoganholo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoazevedojs)](https://www.linkedin.com/in/MatheusFoganholo)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MatheusFoganholo)](https://www.linkedin.com/in/MatheusFoganholo)
 [![E-mail Badge](https://img.shields.io/badge/-E--mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@joaoazevedojs.com.br)](mailto:contato@matheusfoganholo.com.br)
-[![Web Site Badge](https://img.shields.io/badge/-Web%20Site-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=white&link=https://www.joaoazevedojs.com.br)](https://www.matheusfoganholo.com.br)
+[![Web Site Badge](https://img.shields.io/badge/-Web%20Site-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=white&link=https://www.matheusfoganholo.com.br)](https://www.matheusfoganholo.com.br)
 
 ## Hello World! :wave:
-Olá, meu nome é Matheus De Chico Foganholo, tenho 22 anos 📅<br/>
-Moro no interior de SP, em Jaú 🌎<br/>
-Estou trabalhando home-office como desenvolvedor web freelancer através do meu website 🌐<br/>
+Olá, meu nome é Matheus De Chico Foganholo, tenho 23 anos 📅<br/>
+Resido no interior de SP, em Jaú 🌎<br/>
+Estou trabalhando desenvolvedor de sistemas na filial de Jú da JN Moura Informática 🖥<br/>
 Estou estudando para me tornar um desenvolvedor full-stack 📚
 
 ## :man_technologist: No momento, meus conhecimentos são: 
@@ -16,10 +16,12 @@ Estou estudando para me tornar um desenvolvedor full-stack 📚
 | Tecnologias | Experiência |
 | - | - |
 | HTML, CSS, Sass, Bootstrap | :star: :star: :star: :star: :star: | 
-| Javascript, jQuery | :star: :star: :star: :star: :star: |
-| React.js, Vue.js | :star: :star: :star: |
+| Javascript, jQuery, Typescript | :star: :star: :star: :star: :star: |
+| React.js, Angular.js | :star: :star: :star: |
 | Node.js, PHP | :star: :star: :star: |
+| C#, VB.Net | :star: :star: :star: |
 | React-Native | :star: :star: :star: :star: :star: |
 | MySQL, SQLite | :star: :star: :star: :star: |
 
-🚀 A meta de hoje é ser melhor do que ontem, não melhor que ninguém.
+🚀 Sempre em constante aprendizado!
+🎯 A meta de hoje é ser melhor do que ontem, não melhor que ninguém.
