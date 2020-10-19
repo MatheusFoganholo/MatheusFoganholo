@@ -2,7 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MatheusFoganholo)](https://www.linkedin.com/in/MatheusFoganholo)
 [![E-mail Badge](https://img.shields.io/badge/-E--mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@matheusfoganholo.com.br)](mailto:contato@matheusfoganholo.com.br)
-[![WebSite Badge](https://img.shields.io/badge/-Web%20Site-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=white&link=https://www.matheusfoganholo.com.br)](https://www.matheusfoganholo.com.br)
+[![WebSite Badge](https://img.shields.io/badge/-WebSite-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=white&link=https://www.matheusfoganholo.com.br)](https://www.matheusfoganholo.com.br)
 
 ## Hello World! :wave:
 Olá, meu nome é Matheus De Chico Foganholo, tenho 23 anos 📅<br/>
