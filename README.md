@@ -5,21 +5,21 @@
 [![WebSite Badge](https://img.shields.io/badge/-WebSite-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=white&link=https://www.matheusfoganholo.com.br)](https://www.matheusfoganholo.com.br)
 
 ## Hello World! :wave:
-Olá, meu nome é Matheus De Chico Foganholo, tenho 23 anos 📅<br/>
-Resido no interior de SP, em Jaú 🌎<br/>
-Estou trabalhando como desenvolvedor de sistemas na filial de Jaú da JN Moura Informática 🖥<br/>
+👱🏼‍♂️ Hello, my name is Matheus De Chico Foganholo, I'm 23 years old<br/>
+🌎 I live in the interior of SP, in Jaú
+💻 I'm working as a systems developer at JN Moura Informática
 
 ## :man_technologist: No momento, meus conhecimentos são: 
 
-| Tecnologias | Experiência |
+| Technology | Experience |
 | - | - |
 | HTML, CSS, Sass, Bootstrap | :star: :star: :star: :star: :star: | 
-| Javascript, jQuery, Typescript | :star: :star: :star: :star: :star: |
+| Javascript, Typescript, jQuery | :star: :star: :star: :star: :star: |
 | React.js, Angular.js | :star: :star: :star: |
 | Node.js, PHP | :star: :star: :star: |
 | VB.Net, C# | :star: :star: :star: |
 | React-Native | :star: :star: :star: :star: :star: |
 | MySQL, SQLite | :star: :star: :star: :star: |
 
-🚀 Sempre em constante aprendizado!<br/>
-🎯 A meta de hoje é ser melhor do que ontem, não melhor que ninguém.
+🚀 Always in constant learning! <br/>
+🎯 Today's goal is to be better than yesterday, not better than anyone.
