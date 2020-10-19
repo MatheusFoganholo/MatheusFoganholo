@@ -6,7 +6,7 @@
 
 ## Hello World! :wave:
 👱🏼‍♂️ Hello, my name is Matheus De Chico Foganholo, I'm 23 years old.<br/>
-🌎 I live in the interior of SP, in Jaú.<br/><br/>
+🌎 I live in the interior of SP, in Jaú.<br/>
 💻 I'm working as a systems developer at JN Moura Informática.<br/>
 
 ## :man_technologist: No momento, meus conhecimentos são: 
