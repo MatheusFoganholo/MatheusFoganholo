@@ -5,9 +5,9 @@
 [![WebSite Badge](https://img.shields.io/badge/-WebSite-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=white&link=https://www.matheusfoganholo.com.br)](https://www.matheusfoganholo.com.br)
 
 ## Hello World! :wave:
-👱🏼‍♂️ Hello, my name is Matheus De Chico Foganholo, I'm 23 years old<br/>
-🌎 I live in the interior of SP, in Jaú
-💻 I'm working as a systems developer at JN Moura Informática
+👱🏼‍♂️ Hello, my name is Matheus De Chico Foganholo, I'm 23 years old<br/><br/>
+🌎 I live in the interior of SP, in Jaú<br/><br/>
+💻 I'm working as a systems developer at JN Moura Informática<br/><br/>
 
 ## :man_technologist: No momento, meus conhecimentos são: 
 
