@@ -9,7 +9,7 @@
 🌎 I live in the interior of SP, in Jaú.<br/>
 💻 I'm working as a systems developer at JN Moura Informática.<br/>
 
-## :man_technologist: No momento, meus conhecimentos são: 
+## :man_technologist: At the moment, my knowledge is:
 
 | Technology | Experience |
 | - | - |
@@ -17,9 +17,8 @@
 | Javascript, Typescript, jQuery | :star: :star: :star: :star: :star: |
 | React.js, Angular.js | :star: :star: :star: |
 | Node.js, PHP | :star: :star: :star: |
-| VB.Net, C# | :star: :star: :star: |
-| React-Native | :star: :star: :star: :star: :star: |
-| MySQL, SQLite | :star: :star: :star: :star: |
+| React-Native | :star: :star: :star: |
+| MySQL, SQLite | :star: :star: :star: |
 
 🚀 Always in constant learning! <br/>
 🎯 Today's goal is to be better than yesterday, not better than anyone.
