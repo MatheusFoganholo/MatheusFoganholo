@@ -4,7 +4,7 @@
 [![E-mail Badge](https://img.shields.io/badge/-E--mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@matheusfoganholo.com.br)](mailto:contato@matheusfoganholo.com.br)
 [![WebSite Badge](https://img.shields.io/badge/-WebSite-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=white&link=https://www.matheusfoganholo.com.br)](https://www.matheusfoganholo.com.br)
 
-## Hello World! :wave:
+## Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 👱🏼‍♂️ Hello, my name is Matheus De Chico Foganholo, I'm 23 years old.<br/>
 🌎 I live in the interior of SP, in Jaú.<br/>
 💻 I'm working as a systems developer at JN Moura Informática.<br/>
