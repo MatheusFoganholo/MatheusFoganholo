@@ -10,7 +10,7 @@
 💻 I'm working as a systems developer at JN Moura Informática.<br/>
 🌐 I also have a <a href="https://matheusfoganholo.com.br/">website</a>, where I work as a freelancer.<br/>
 
-## :man_technologist: At the moment, my knowledge is:
+## Knowledge :man_technologist:
 
 | Technology | Experience |
 | - | - |
