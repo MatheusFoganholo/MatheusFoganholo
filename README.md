@@ -19,7 +19,7 @@
 | React.js, Angular | :star: :star: :star: |
 | Node.js, PHP | :star: :star: :star: |
 | React-Native | :star: :star: :star: |
-| MySQL, SQLite | :star: :star: :star: |
+| MySQL, MongoDB | :star: :star: :star: |
 
 🚀 Always in constant learning! <br/>
 🎯 Today's goal is to be better than yesterday, not better than anyone.
