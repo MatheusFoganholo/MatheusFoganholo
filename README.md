@@ -16,7 +16,7 @@
 | - | - |
 | HTML, CSS, Sass, Bootstrap | :star: :star: :star: :star: :star: | 
 | Javascript, Typescript, jQuery | :star: :star: :star: :star: :star: |
-| React.js, Angular.js | :star: :star: :star: |
+| React.js, Angular | :star: :star: :star: |
 | Node.js, PHP | :star: :star: :star: |
 | React-Native | :star: :star: :star: |
 | MySQL, SQLite | :star: :star: :star: |
