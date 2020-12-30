@@ -7,6 +7,7 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 👱🏼‍♂️ Hello, my name is Matheus De Chico Foganholo, I'm 23 years old.<br/>
 🌎 I live in the interior of SP, in Jaú.<br/>
+👨🏼‍💻 I study Internet Systems at <a href="http://fatecjahu.edu.br">Fatec Jahu</a>.
 💻 I'm working as a developer at <a href="https://www.alboompro.com">Alboom Brasil</a>.<br/>
 🌐 I also have a <a href="https://matheusfoganholo.com.br/">website</a>, where I work as a freelancer.<br/>
 
