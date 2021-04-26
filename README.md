@@ -1,7 +1,7 @@
 # MatheusFoganholo :computer:
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MatheusFoganholo)](https://www.linkedin.com/in/MatheusFoganholo)
-[![E-mail Badge](https://img.shields.io/badge/-E--mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@matheusfoganholo.com.br)](mailto:contato@matheusfoganholo.com.br)
+[![E-mail Badge](https://img.shields.io/badge/-E--mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@matheus.app)](mailto:contato@matheus.app)
 [![Website Badge](https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=white&link=https://www.matheus.app)](https://www.matheus.app)
 
 ## Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
