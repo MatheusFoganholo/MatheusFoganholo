@@ -9,7 +9,7 @@
 🌎 I live in the interior of SP, in Jaú.<br/>
 👨🏼‍💻 I study Internet Systems at <a href="http://fatecjahu.edu.br">Fatec Jahu</a>.<br/>
 💻 I'm working as a developer at <a href="https://www.alboompro.com">Alboom Brasil</a>.<br/>
-🌐 I also have a <a href="https://matheusfoganholo.com.br/">website</a>, where I work as a freelancer.<br/>
+🌐 I also have a <a href="https://matheus.app/">website</a>, where I work as a freelancer.<br/>
 
 ## Knowledge :man_technologist:
 
