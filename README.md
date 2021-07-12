@@ -16,11 +16,11 @@
 | Technology | Experience |
 | - | - |
 | HTML, CSS, Sass, Bootstrap | :star: :star: :star: :star: :star: | 
-| Javascript, Typescript, jQuery | :star: :star: :star: :star: :star: |
-| React.js, Angular | :star: :star: :star: :star: |
-| Node.js, PHP | :star: :star: :star: |
+| Javascript, Typescript | :star: :star: :star: :star: :star: |
+| React.js | :star: :star: :star: :star: :star: |
+| Node.js | :star: :star: :star: :star: |
 | React-Native | :star: :star: :star: |
-| MySQL, MongoDB | :star: :star: :star: |
+| MongoDB | :star: :star: :star: :star: |
 
 🚀 Always in constant learning! <br/>
 🎯 Today's goal is to be better than yesterday, not better than anyone.
