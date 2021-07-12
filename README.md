@@ -1,4 +1,4 @@
-# MatheusFoganholo :computer:
+# MatheusFoganholo 👨🏼‍💻
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MatheusFoganholo)](https://www.linkedin.com/in/MatheusFoganholo)
 [![E-mail Badge](https://img.shields.io/badge/-E--mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@matheus.app)](mailto:contato@matheus.app)
