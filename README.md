@@ -6,11 +6,25 @@
 
 ## Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-👱🏼‍♂️ Hello, my name is Matheus Foganholo, I'm 23 years old.<br/>
-🌎‏‏‎ ‎I live in the interior of SP, in Jaú.<br/>
-💻 I study Internet Systems at <a href="http://fatecjahu.edu.br">Fatec Jahu</a>.<br/>
-👨🏼‍💻 I'm working as a developer at <a href="https://www.alboompro.com">Alboom Brasil</a>.<br/>
-🌐 I also have a <a href="https://matheus.app/">website</a>, where I work as a freelancer.<br/>
+```js
+const me = {
+    fullName: 'Matheus De Chico Foganholo',
+    nickname: 'Aeon',
+    age: '23',
+    college: 'Internet Systems',
+    location: { country: 'Brazil',  state: 'São Paulo', city: 'Jaú' },
+    occupation: [
+      { companyName: 'Kinvo', companyUrl: 'https://kinvo.com.br/', role: 'Front-End Developer' },
+      { companyName: 'Matheus.App', companyUrl: 'https://matheus.app/', role: 'Fullstack Developer - Freelancer' },
+    ],
+    code: {
+      focusing: ['Javascript', 'React', 'Next', 'Node', 'MongoDB'],
+      knowledge: ['Typescript', 'React-Native', 'MySQL', 'HTML', 'CSS', 'Sass', 'Bootstrap', 'Angular', 'Rails', 'jQuery', 'PHP']
+      tools: ['Git', 'Jest', 'Redux', 'Redux-Saga', 'Figma', 'Adobe XD', 'Docker']
+    },
+    hobbies: ['Games', 'Movies', 'Series', 'Music', 'Snooker', 'Table Tennis', 'Investments']
+};
+```
 
 <br/>
 
