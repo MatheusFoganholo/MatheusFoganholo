@@ -12,12 +12,14 @@
 👨🏼‍💻 I'm working as a developer at <a href="https://www.alboompro.com">Alboom Brasil</a>.<br/>
 🌐 I also have a <a href="https://matheus.app/">website</a>, where I work as a freelancer.<br/>
 
+<br/>
 
 <div>
 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusFoganholo&show_icons=true&theme=radical&hide=issues"/>
 		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFoganholo&layout=compact&theme=radical"/>
 </div>
 
+<br/>
 
 🚀 Always in constant learning!<br/>
 🎯 Today's goal is to be better than yesterday, not better than anyone.
