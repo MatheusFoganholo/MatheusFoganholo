@@ -10,7 +10,7 @@
 const me = {
     fullName: 'Matheus De Chico Foganholo',
     nickname: 'Aeon',
-    age: '23',
+    age: '24',
     college: 'Internet Systems',
     location: { country: 'Brazil',  state: 'São Paulo', city: 'Jaú' },
     occupation: [
