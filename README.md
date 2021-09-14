@@ -18,8 +18,8 @@ const me = {
       { companyName: 'Matheus.App', companyUrl: 'https://matheus.app/', role: 'Fullstack Developer - Freelancer' }
     ],
     code: {
-      focusing: ['Javascript', 'React', 'Next', 'Node', 'MongoDB'],
-      knowledge: ['Typescript', 'React-Native', 'MySQL', 'HTML', 'CSS', 'Sass', 'Bootstrap', 'Angular', 'Rails', 'jQuery', 'PHP'],
+      focusing: ['Typescript', 'React', 'Next', 'Node', 'MongoDB'],
+      knowledge: ['Javascript', 'React-Native', 'MySQL', 'HTML', 'CSS', 'Sass', 'Bootstrap', 'Angular', 'Rails', 'jQuery', 'PHP'],
       tools: ['Git', 'Jest', 'Redux', 'Redux-Saga', 'Figma', 'Adobe XD', 'Docker']
     },
     hobbies: ['Games', 'Movies', 'Series', 'Music', 'Snooker', 'Table Tennis', 'Investments']
