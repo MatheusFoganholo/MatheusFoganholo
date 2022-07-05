@@ -4,7 +4,7 @@
 [![E-mail Badge](https://img.shields.io/badge/-E--mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@matheus.app)](mailto:contato@matheus.app)
 [![Website Badge](https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=white&link=https://www.matheus.app)](https://www.matheus.app)
 
-## Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 ```js
 const me = {
