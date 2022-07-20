@@ -8,20 +8,24 @@
 
 <br/>
 
-👱🏼‍♂️ Hello, my name is Matheus Foganholo, I'm 24 years old.
-🌎 I live in the interior of SP, in Jaú (Brazil).
-💻 I graduated as a technologist in Internet Systems at Fatec Jahu.
-👨🏼‍💻 I'm working as a Lead Software Engineer at Kinvo.
+👱🏼‍♂️ Hello, my name is Matheus Foganholo, I'm 24 years old. <br/>
+🌎 I live in the interior of SP, in Jaú (Brazil). <br/>
+💻 I graduated as a technologist in Internet Systems at Fatec Jahu. <br/>
+👨🏼‍💻 I'm working as a Lead Software Engineer at Kinvo. <br/>
 
-📚 Currently, my studies and projects are directed to:
+<br/>
 
-✔ Node.js (Nest)
-✔ Typescript
-✔ Design Patterns/Architectures
-✔ MongoDB
+📚 Currently, my studies and projects are directed to: <br/>
 
-🚀 Always in constant learning!
-🎯 Today's goal is to be better than yesterday, not better than anyone.
+✔ Node.js (Nest) <br/>
+✔ Typescript <br/>
+✔ Design Patterns/Architectures <br/>
+✔ MongoDB <br/>
+
+<br/>
+
+🚀 Always in constant learning! <br/>
+🎯 Today's goal is to be better than yesterday, not better than anyone. <br/>
 
 <br/>
 
