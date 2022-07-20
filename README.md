@@ -13,13 +13,10 @@ const me = {
     age: '24',
     college: 'Internet Systems',
     location: { country: 'Brazil',  state: 'São Paulo', city: 'Jaú' },
-    occupation: [
-      { companyName: 'Kinvo', companyUrl: 'https://kinvo.com.br/', role: 'Front-End Developer' },
-      { companyName: 'Matheus.App', companyUrl: 'https://matheus.app/', role: 'Fullstack Developer - Freelancer' }
-    ],
+    occupation: { companyName: 'Kinvo', companyUrl: 'https://kinvo.com.br/', role: 'Lead Software Engineer' },
     code: {
-      focusing: ['Typescript', 'React', 'Node', 'Nest', 'MongoDB', 'Design Patterns', 'Architectures'],
-      knowledge: ['Javascript', 'React-Native', 'MySQL', 'HTML', 'CSS', 'Sass', 'Bootstrap', 'jQuery', 'PHP'],
+      focusing: ['Node', 'Nest', 'MongoDB', 'Design Patterns', 'Architectures'],
+      knowledge: ['Javascript', 'Typescript', 'React', 'React-Native', 'MySQL', 'HTML', 'CSS', 'Sass', 'Bootstrap', 'jQuery', 'PHP'],
       tools: ['Git', 'Jest', 'Redux', 'Redux-Saga', 'Figma', 'Adobe XD', 'Docker']
     },
     hobbies: ['Games', 'Movies', 'Series', 'Music', 'Snooker', 'Table Tennis', 'Investments']
