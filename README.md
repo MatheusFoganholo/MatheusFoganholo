@@ -11,8 +11,6 @@
 💻 I graduated as a technologist in Internet Systems at Fatec Jahu. <br/>
 👨🏼‍💻 I'm working as a Lead Software Engineer at Kinvo. <br/>
 
-<br/>
-
 📚 Currently, my studies and projects are directed to: <br/>
 
 ✔ Node.js (Nest) <br/>
