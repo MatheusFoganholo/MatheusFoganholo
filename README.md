@@ -6,9 +6,7 @@
 
 ## Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-<br/>
-
-👱🏼‍♂️ Hello, my name is Matheus Foganholo, I'm 24 years old. <br/>
+👱🏼‍♂️ My name is Matheus Foganholo, I'm 24 years old. <br/>
 🌎 I live in the interior of SP, in Jaú (Brazil). <br/>
 💻 I graduated as a technologist in Internet Systems at Fatec Jahu. <br/>
 👨🏼‍💻 I'm working as a Lead Software Engineer at Kinvo. <br/>
