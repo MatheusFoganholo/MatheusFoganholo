@@ -6,22 +6,22 @@
 
 ## Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-```js
-const me = {
-    fullName: 'Matheus De Chico Foganholo',
-    nickname: 'Aeon',
-    age: '24',
-    college: 'Internet Systems',
-    location: { country: 'Brazil',  state: 'São Paulo', city: 'Jaú' },
-    occupation: { companyName: 'Kinvo', companyUrl: 'https://kinvo.com.br/', role: 'Lead Software Engineer' },
-    code: {
-      focusing: ['Node', 'Nest', 'MongoDB', 'Design Patterns', 'Architectures'],
-      knowledge: ['Javascript', 'Typescript', 'React', 'React-Native', 'MySQL', 'HTML', 'CSS', 'Sass', 'Bootstrap', 'jQuery', 'PHP'],
-      tools: ['Git', 'Jest', 'Redux', 'Redux-Saga', 'Figma', 'Adobe XD', 'Docker']
-    },
-    hobbies: ['Games', 'Movies', 'Series', 'Music', 'Snooker', 'Table Tennis', 'Investments']
-};
-```
+<br/>
+
+👱🏼‍♂️ Hello, my name is Matheus Foganholo, I'm 24 years old.
+🌎 I live in the interior of SP, in Jaú (Brazil).
+💻 I graduated as a technologist in Internet Systems at Fatec Jahu.
+👨🏼‍💻 I'm working as a Lead Software Engineer at Kinvo.
+
+📚 Currently, my studies and projects are directed to:
+
+✔ Node.js (Nest)
+✔ Typescript
+✔ Design Patterns/Architectures
+✔ MongoDB
+
+🚀 Always in constant learning!
+🎯 Today's goal is to be better than yesterday, not better than anyone.
 
 <br/>
 
