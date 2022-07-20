@@ -22,11 +22,6 @@
 
 <br/>
 
-🚀 Always in constant learning! <br/>
-🎯 Today's goal is to be better than yesterday, not better than anyone. <br/>
-
-<br/>
-
 <div>
 	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusFoganholo&show_icons=true&theme=radical&hide=issues"/>
 	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFoganholo&layout=compact&theme=radical"/>
