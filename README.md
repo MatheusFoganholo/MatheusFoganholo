@@ -14,9 +14,11 @@
 📚 Currently, my studies and projects are directed to: <br/>
 
 ✔ Node.js (Nest) <br/>
-✔ Typescript <br/>
+✔ RxJS <br/>
 ✔ Design Patterns/Architectures <br/>
 ✔ MongoDB <br/>
+✔ Docker <br/>
+✔ Kubernetes <br/>
 
 <br/>
 
